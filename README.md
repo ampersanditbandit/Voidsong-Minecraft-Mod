@@ -4,7 +4,11 @@ It should be noted that this is a very minor
 and experimental mod as it is my first. Please
 report any feedback on the issues page!
 
-CHANGELOG V0.1.2
+# HOW TO DOWNLOAD
+### For Curseforge
+Make a new profile, then click on the 3 dots next to play. Select "Open Folder," then put the .jar file into the "mods" folder.
+
+### CHANGELOG V0.1.2
 # Hello again!
 This version adds a few more things that are still being worked on. It's taken modrinth a bit to process the mod so I was able to work on this for a bit.
 
