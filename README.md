@@ -8,6 +8,8 @@ report any feedback on the issues page!
 # HOW TO DOWNLOAD
 ### For Curseforge
 Make a new profile, then click on the 3 dots next to play. Select "Open Folder," then put the .jar file into the "mods" folder.
+### For Modrinth
+Download off Modrinth app (this is the easy method
 
 ### CHANGELOG V0.1.3
 ## Back Again
