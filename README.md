@@ -11,20 +11,18 @@ Make a new profile, then click on the 3 dots next to play. Select "Open Folder,"
 ### For Modrinth Modloader
 Open the Modrinth app, select the mod and add it to a profile. (easiest method)
 
-### CHANGELOG V0.1.3
-## Back Again
-simple changelog since im in a rush
-- -Guardian renamed to Monomati (mono - one | mati - eye (greek)
-- -Missing ore naming fixed
-- -dead wook naming fixed
-- -Monomati (gaurdian) shrunk & less frequent
-- -im not entirely sure how to fix the mob spawning everywhere issue but if i can figure it out i will
-- -missing biome music is an mcreator bug i think but i'll temporarily remove it for now
-- -deadwood crafting table recipe i forgot to add, mb
-- -more passive animals are planned
-- -MRE's added
-- -also balanced things (voided items nerfed, ashen wastelands now spawn in higher temperatures and constantly rain [I think], factory loot entirely revamped
-- -new structure
-- -nailgun & nails
-- -leaves fixed
-- _-removed the creature_
+### hello
+## Version 0.1.5
+# Minor update
+
+- Remade nail item texture
+- Renamed nail to "bundle of nails"
+- fixed logs for charcoal and fuel
+- fixed stairs, gates, fences, etc. from mining slow with assigned tools
+- temporary boats for wood idk if i'll make seperate boats
+- fixed beds
+- doors and trapdoors planned
+- removed _the creature_
+
+# Extra notes:
+Im gonna be taking a small break for a bit, but expect more later!
