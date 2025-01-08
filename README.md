@@ -13,18 +13,16 @@ Make a new profile, then click on the 3 dots next to play. Select "Open Folder,"
 ### For Modrinth Modloader
 Open the Modrinth app, select the mod and add it to a profile. (easiest method)
 
-### hello
-## Version 0.1.5
-# Minor update
+changelog:
 
-- Remade nail item texture
-- Renamed nail to "bundle of nails"
-- fixed logs for charcoal and fuel
-- fixed stairs, gates, fences, etc. from mining slow with assigned tools
-- temporary boats for wood idk if i'll make seperate boats
-- fixed beds
-- doors and trapdoors planned
-- removed _the creature_
+# It's been a long time. How have you been?
 
-# Extra notes:
-Im gonna be taking a small break for a bit, but expect more later!
+This update adds a lot of features I had planned but were still cooking.
+- Radiated Wastes Biome
+  - New "Irradiated" effect
+  - New Uranium Waste block that I may or may not do something with.
+- "The Fallen" added
+- idk if this was in the last one but Voidzone biome added
+  - "Void's Grasp" effect
+- New music
+- Bug fixes (boats from wood, etc)
