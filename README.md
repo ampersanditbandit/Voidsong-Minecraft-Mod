@@ -15,14 +15,8 @@ Open the Modrinth app, select the mod and add it to a profile. (easiest method)
 
 changelog:
 
-# It's been a long time. How have you been?
+# Minor Update/Patch
 
-This update adds a lot of features I had planned but were still cooking.
-- Radiated Wastes Biome
-  - New "Irradiated" effect
-  - New Uranium Waste block that I may or may not do something with.
-- "The Fallen" added
-- idk if this was in the last one but Voidzone biome added
-  - "Void's Grasp" effect
-- New music
-- Bug fixes (boats from wood, etc)
+- Buffed The Fallen
+- Added V𝙹╎↸ d╎ᒲᒷリᓭ╎𝙹リ. C∷ᒷᔑℸ ̣ ᒷ ℸ ̣ ⍑ᒷ !¡𝙹∷ℸ ̣ ᔑꖎ ∴╎ℸ ̣ ⍑ !¡𝙹ꖎ╎ᓭ⍑ᒷ↸ ʖꖎᔑᓵꖌᓭℸ ̣ 𝙹リᒷ. C∷ᒷᔑℸ ̣ ᒷ ℸ ̣ ⍑ᒷ hᒷᔑ∷ℸ ̣  𝙹⎓ ℸ ̣ ⍑ᒷ v𝙹╎↸ ∴╎ℸ ̣ ⍑ ᓵᔑリ↸ꖎᒷᓭ ᔑリ↸ v𝙹╎↸ ʖꖎ𝙹ᓵꖌᓭ ↸∷𝙹!¡!¡ᒷ↸ ʖ|| t⍑ᒷ fᔑꖎꖎᒷリ.
+- Added "Anomaly" biome
