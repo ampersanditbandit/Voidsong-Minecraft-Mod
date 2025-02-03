@@ -15,8 +15,10 @@ Open the Modrinth app, select the mod and add it to a profile. (easiest method)
 
 changelog:
 
-# Minor Update/Patch
+# MINOR UPDATE
+![2025-02-02_18 47 43-min](https://github.com/user-attachments/assets/eb330494-aee8-4119-a585-d38a67b20bdb)
 
-- Buffed The Fallen
-- Added V𝙹╎↸ d╎ᒲᒷリᓭ╎𝙹リ. C∷ᒷᔑℸ ̣ ᒷ ℸ ̣ ⍑ᒷ !¡𝙹∷ℸ ̣ ᔑꖎ ∴╎ℸ ̣ ⍑ !¡𝙹ꖎ╎ᓭ⍑ᒷ↸ ʖꖎᔑᓵꖌᓭℸ ̣ 𝙹リᒷ. C∷ᒷᔑℸ ̣ ᒷ ℸ ̣ ⍑ᒷ hᒷᔑ∷ℸ ̣  𝙹⎓ ℸ ̣ ⍑ᒷ v𝙹╎↸ ∴╎ℸ ̣ ⍑ ᓵᔑリ↸ꖎᒷᓭ ᔑリ↸ v𝙹╎↸ ʖꖎ𝙹ᓵꖌᓭ ↸∷𝙹!¡!¡ᒷ↸ ʖ|| t⍑ᒷ fᔑꖎꖎᒷリ.
-- Added "Anomaly" biome
+## ANOMALY BIOME UPDATE
+- new hostile mob
+- various fixes
+- new music
