@@ -9,7 +9,7 @@ report any feedback on the issues page!
 
 # HOW TO DOWNLOAD
 ### For Curseforge
-Make a new profile, then click on the 3 dots next to play. Select "Open Folder," then put the .jar file into the "mods" folder.
+NEW download off of the installer! We're finally here.
 ### For Modrinth Modloader
 Open the Modrinth app, select the mod and add it to a profile. (easiest method)
 
