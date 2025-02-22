@@ -14,11 +14,24 @@ NEW download off of the installer! We're finally here.
 Open the Modrinth app, select the mod and add it to a profile. (easiest method)
 
 changelog:
-
-# MINOR UPDATE
-![2025-02-02_18 47 43-min](https://github.com/user-attachments/assets/eb330494-aee8-4119-a585-d38a67b20bdb)
-
-## ANOMALY BIOME UPDATE
-- new hostile mob
-- various fixes
-- new music
+# To call this a major update would be a serious understatement.
+## CHANGES
+### null dimension
+- also called "shattered spacetime" in files, dont mind that for right now :)
+- null block
+- blank white space of nothingness with new music
+- new strongest ore
+- rare buildings with loot
+### Others
+- Doors! Trapdoors! very suggested
+- Many new structures
+- 2 new mobs
+- New portal block
+- More advancements
+- Texture Overhaul
+- various bug fixes that i forgot about
+## KNOWN ISSUES
+- nailgun still broken
+- loot may or may not be too frequent or imbalanced
+- some items may still have bad textures
+- mobs may be imbalanced
