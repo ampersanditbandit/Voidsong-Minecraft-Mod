@@ -15,7 +15,6 @@ NEW download off of the installer! We're finally here.
 Open the Modrinth app, select the mod and add it to a profile. (easiest method)
 
 changelog:
-<<<<<<< HEAD
 
 # MINOR UPDATE
 - updated to 1.21.4
