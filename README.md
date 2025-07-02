@@ -2,7 +2,7 @@
 
 NOTE: This mod is more of a proof of concept. I'm just one person using a really bad mod editor, so this mod may not be the best but it is the general groundwork for something I'd like to see :)
 
-### For version 1.21.4
+### V0.3.0 For version 1.21.4 NEOFORGE
 It should be noted that this is a very minor
 and experimental mod as it is my first. Please
 report any feedback on the issues page!
