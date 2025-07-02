@@ -14,8 +14,32 @@ NEW download off of the installer! We're finally here.
 Open the Modrinth app, select the mod and add it to a profile. (easiest method)
 
 changelog:
+<<<<<<< HEAD
 
 # MINOR UPDATE
 - updated to 1.21.4
 - deadwood retexture or something i genuinely don't remember texturing that though
 - more features coming soon...?
+=======
+# To call this a major update would be a serious understatement.
+## CHANGES
+### null dimension
+- also called "shattered spacetime" in files, dont mind that for right now :)
+- null block
+- blank white space of nothingness with new music
+- new strongest ore
+- rare buildings with loot
+### Others
+- Doors! Trapdoors! very suggested
+- Many new structures
+- 2 new mobs
+- New portal block
+- More advancements
+- Texture Overhaul
+- various bug fixes that i forgot about
+## KNOWN ISSUES
+- nailgun still broken
+- loot may or may not be too frequent or imbalanced
+- some items may still have bad textures
+- mobs may be imbalanced
+>>>>>>> f1752d310727d29bff02d03ab564a733e1df7f30
